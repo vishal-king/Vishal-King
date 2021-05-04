@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vishal-king
+- 👋 Hi, I’m Vishal Sharma
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning AI,IOT
 - 💞️ I’m looking to collaborate on IT
